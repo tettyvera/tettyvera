@@ -2,11 +2,7 @@
 
 ### Business Intelligence Analyst | Data Analyst
 
-I'm a data professional based in Jakarta, Indonesia, with experience in business intelligence, financial reporting, data analysis, and dashboard development.
-
-My background spans fintech, healthcare distribution, and B2B sales, giving me experience working with business and operational data across different industries.
-
-I enjoy turning complex datasets into clear insights, building reports that support business decisions, and solving problems with SQL and data visualization.
+I'm a data professional based in Jakarta, Indonesia, with experience in business intelligence, financial reporting, data analysis, and dashboard development. My background spans fintech, healthcare distribution, and B2B sales, giving me experience working with business and operational data across different industries. I enjoy turning complex datasets into clear insights, building reports that support business decisions, and solving problems with SQL and data visualization.
 
 🌏 Based in Jakarta, Indonesia | Open to fully remote international opportunities
 
